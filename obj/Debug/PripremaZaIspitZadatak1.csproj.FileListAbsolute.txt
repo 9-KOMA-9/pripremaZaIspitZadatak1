@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\bin\Debug\PripremaZaIspitZadatak1.exe.config
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\bin\Debug\PripremaZaIspitZadatak1.exe
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\bin\Debug\PripremaZaIspitZadatak1.pdb
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\obj\Debug\PripremaZaIspitZadatak1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\obj\Debug\PripremaZaIspitZadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\obj\Debug\PripremaZaIspitZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\obj\Debug\PripremaZaIspitZadatak1.exe
+C:\Users\ucenik\source\repos\PripremaZaIspitZadatak1\obj\Debug\PripremaZaIspitZadatak1.pdb
